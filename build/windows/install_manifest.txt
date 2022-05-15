@@ -1,0 +1,8 @@
+D:/Flutter/monitt5/build/windows/runner/Debug/data/icudtl.dat
+D:/Flutter/monitt5/build/windows/runner/Debug/flutter_windows.dll
+D:/Flutter/monitt5/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Flutter/monitt5/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Flutter/monitt5/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Flutter/monitt5/build/windows/runner/Debug/data/flutter_assets/NOTICES
+D:/Flutter/monitt5/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Flutter/monitt5/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
